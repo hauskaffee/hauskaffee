@@ -1,22 +1,23 @@
-### Hi there 👋
+![keep it simple banner](./assests/banner.png)
 
-I am an IT Professional in the CI/CD DevOps space related to Containers, Kubernetes, and GitOps. I strive to make things simple, easy, and user-friendly for my customers and colleagues. I mainly do this by documenting my findings, procedures, and tips so others can understand what's going on and save time. I am also the documentation guy on my team because I have revamped and contributed to internal and external documentation.
+# Hey There 👋
 
-Currently, I am advancing my knowledge about Kubernetes, Argo Project, and containers in general. To achieve this, I have started learning and achieving Cloud Native Computing Foundation certifications for Kubernetes. I have applied my knowledge from learning Kubernetes with Argo Project to create CI/CD Pipelines and deploy simple applications.
+## Current
 
-Above are items I am working towards professionally, but I am usually not that technical when off the clock. I prefer not to look at a screen after work and be outside. I have a TV, but it is rarely on unless others are over. So what do I do after work if not in front of a screen? I like to travel and explore new places, go hiking, visit a new national/state park, try a new restaurant, or see an everyday spot.
+- 🧑‍💻 Dev Support Engineer at Codefresh
 
-<!--
-**xplrior/xplrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
 
-Here are some ideas to get you started:
+- ∞ Continuous Integration / Continuous Delivery
+- ⎈ Kubernetes
+- 📦 Containers
+- 🚀 ArgoProj
+- 🐍 Python
+- ☁️ Amazon Web Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## BIO
+
+- 🌱 I’m currently learning Full Stack Engineering
+- ✈️ Enjoy traveling
+- 🏕️ Love being outside
+- 🍎 Food is amazing
