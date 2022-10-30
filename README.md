@@ -17,7 +17,7 @@
 
 ## BIO
 
-- 🌱 I’m currently learning Full Stack Engineering
+- 🌱 I’m currently learning Back End Engineering
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
