@@ -17,7 +17,7 @@
 
 ## BIO
 
-- 🌱 I’m currently learning Back End Engineering
+- 🌱 I’m currently learning Golang
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
