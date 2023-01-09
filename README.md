@@ -17,7 +17,7 @@
 
 ## BIO
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Full Stack Engineering
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
