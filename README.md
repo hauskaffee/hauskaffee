@@ -4,7 +4,7 @@
 
 ## Current
 
-- 🧑‍💻 Dev Support Engineer at Codefresh
+- 🧑‍💻 Learning to become a Software Developer
 
 ## SKILLS
 
@@ -17,7 +17,7 @@
 
 ## BIO
 
-- 🌱 I’m currently learning Full Stack Engineering
+- 🌱 I’m currently learning Front End Engineering
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
