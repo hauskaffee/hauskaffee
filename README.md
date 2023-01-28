@@ -17,7 +17,6 @@
 
 ## BIO
 
-- 🌱 I’m currently learning Front End Engineering
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
