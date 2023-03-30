@@ -2,10 +2,6 @@
 
 # Hey There 👋
 
-## Current
-
-- 🧑‍💻 Learning to become a Software Developer
-
 ## SKILLS
 
 - ∞ Continuous Integration / Continuous Delivery
