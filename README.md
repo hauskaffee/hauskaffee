@@ -1,14 +1,16 @@
 ![keep it simple banner](./assests/banner.png)
 
-# Hey There 👋
+# Hey There 👋, I'm Luke Goodfellow
+
+A skilled Support Engineer and aspiring Full-Stack Engineer
 
 ## SKILLS
 
-- ∞ Continuous Integration / Continuous Delivery
+- ∞ CI/CD
 - ⎈ Kubernetes
 - 📦 Containers
-- 🚀 ArgoProj
-- 🐍 Python
+- 🚀 ArgoCD
+- 📝 JavaScript, Python, HTML, CSS
 - ☁️ Amazon Web Services
 
 ## BIO
@@ -16,3 +18,4 @@
 - ✈️ Enjoy traveling
 - 🏕️ Love being outside
 - 🍎 Food is amazing
+- 📷 Taking photos
