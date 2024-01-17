@@ -2,7 +2,7 @@
 
 # Hey There 👋, I'm Luke Goodfellow
 
-A skilled Support Engineer and aspiring Full-Stack Engineer
+A skilled Support Engineer and aspiring developer
 
 ## SKILLS
 
@@ -10,7 +10,7 @@ A skilled Support Engineer and aspiring Full-Stack Engineer
 - ⎈ Kubernetes
 - 📦 Containers
 - 🚀 ArgoCD
-- 📝 JavaScript, Python, HTML, CSS
+- 📝 JavaScript, Python, Swift
 - ☁️ Amazon Web Services
 
 ## BIO
