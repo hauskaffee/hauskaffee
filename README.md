@@ -10,7 +10,7 @@ A skilled Support Engineer and aspiring developer
 - ⎈ Kubernetes
 - 📦 Containers
 - 🚀 ArgoCD
-- 📝 JavaScript, Python, Swift
+- 📝 JavaScript, Python, Bash
 - ☁️ Amazon Web Services
 
 ## BIO
